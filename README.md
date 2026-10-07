@@ -1,6 +1,6 @@
 # Grounded Reasoning
 
-An evidence-first Agent Skill for answers that need accurate sourcing, calibrated uncertainty, and a final adversarial check. It uses the open `SKILL.md` format; discovery and tool support vary by agent.
+An evidence-first Agent Skill for coding, research, and reasoning when important facts are current, external, incomplete, or disputed. It keeps retrieval, verification, delegation, and output proportional to the task while preserving uncertainty. It uses the open `SKILL.md` format; discovery and tool support vary by agent.
 
 ## Install
 
